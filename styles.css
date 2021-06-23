@@ -1,0 +1,138 @@
+.top {
+  padding-top: 10%;
+  background-color: #D8E3E7;
+}
+
+.specialp {
+  font-size: 2rem;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+.specialptwo {
+  width: 500px;
+  display: inline-block;
+    line-height: 2;
+}
+
+.smalltext {
+  color: #51C4D3;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: #D8E3E7;
+  width: 4%;
+  padding: 10px auto 10px auto;
+}
+
+.btn {
+  display: block;
+  margin-top: 20px;
+
+}
+
+.contact-me {
+  margin: 100px auto 100px auto;
+}
+
+.bottom-container {
+  display: block;
+  background-color: #51C4D3;
+  height: 100px;
+  padding-top: 80px;
+}
+.special{
+  margin-top: 40px;
+  color: white;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+a {
+  padding: 1%;
+  text-decoration: none
+}
+
+.imgone {
+  width: 11%;
+}
+
+.poop {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+  border-radius: 50%;
+}
+
+.piss {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+  border-radius: 50%;
+}
+
+.pisstwo {
+  text-align: right;
+}
+
+.profile {
+  margin: 100px auto 100px auto;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #51C4D3;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+}
+
+h2 {
+  color: #126E82;
+  font-size: 40px;
+}
+
+a {
+  color: #126E82;
+}
+
+h3 {
+  color: #126E82;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  top: 10%;
+}
+
+.bot-cloud {
+  position: absolute;
+  left: 450px;
+  bottom: 450px;
+}
+
+.mid {}
+
+.bottom {}
+
+.pro {
+  text-decoration: underline;
+}
