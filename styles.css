@@ -27,11 +27,6 @@ hr {
   padding: 10px auto 10px auto;
 }
 
-.btn {
-  display: block;
-  margin-top: 20px;
-
-}
 
 .contact-me {
   margin: 100px auto 100px auto;
@@ -135,4 +130,33 @@ h3 {
 
 .pro {
   text-decoration: underline;
+}
+.btn {
+  background: #51C4D3;
+  background-image: -webkit-linear-gradient(top, #51C4D3, #126E82);
+  background-image: -moz-linear-gradient(top, #51C4D3, #126E82);
+  background-image: -ms-linear-gradient(top, #51C4D3, #126E82);
+  background-image: -o-linear-gradient(top, #51C4D3, #126E82);
+  background-image: linear-gradient(to bottom, #51C4D3, #126E82);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: block;
+  width: 8%;
+  margin: 70px auto;
+}
+
+.btn:hover {
+  background: #69e3f0;
+  background-image: -webkit-linear-gradient(top, #69e3f0, #3092a6);
+  background-image: -moz-linear-gradient(top, #69e3f0, #3092a6);
+  background-image: -ms-linear-gradient(top, #69e3f0, #3092a6);
+  background-image: -o-linear-gradient(top, #69e3f0, #3092a6);
+  background-image: linear-gradient(to bottom, #69e3f0, #3092a6);
+  text-decoration: none;
 }
