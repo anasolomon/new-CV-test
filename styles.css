@@ -41,6 +41,7 @@ hr {
 .special{
   margin-top: 40px;
   color: white;
+  font-size: 0.75rem;
 }
 .skill-row {
   width: 50%;
@@ -107,23 +108,22 @@ h2 {
 a {
   color: #126E82;
 }
-
+a:hover{
+  color:#69e3f0;
+}
 h3 {
   color: #126E82;
 }
-
 .top-cloud {
   position: absolute;
   right: 450px;
   top: 10%;
 }
-
 .bot-cloud {
   position: absolute;
   left: 450px;
   bottom: 450px;
 }
-
 .mid {}
 
 .bottom {}
